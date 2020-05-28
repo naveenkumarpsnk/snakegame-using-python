@@ -1,0 +1,3 @@
+before running install this command in cmd prompt:
+
+pip install windows-curses
